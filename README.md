@@ -12,16 +12,15 @@
 <div style="display: inline_block"><br> <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </div><br/>
 
 # Inteligência Artificial e Bots 🤖
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Amazon Alexa" src="https://img.shields.io/badge/Amazon%20Alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"/> 
-  <img align="center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> 
-  <img align="center" alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-003DA5?style=for-the-badge&logo=deepseek&logoColor=white"/>
-  <img align="center" alt="Dependabot" src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white"/> 
-  <img align="center" alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/> 
-  <img align="center" alt="Google Assistant" src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/> 
-  <img align="center" alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/> 
-  <img align="center" alt="Perplexity" src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white"/> 
-</div><br/>
+
+[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/alexa)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-003DA5?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/)
+[![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](https://docs.github.com/en/code-security/dependabot)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
+[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)](https://assistant.google.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://gemini.google.com/)
+[![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
 
 🔗 Blockchain
 <div style="display: inline_block"><br> <img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img align="center" alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/> </div><br/>
