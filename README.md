@@ -26,14 +26,14 @@
 <div style="display: inline_block"><br> <img align="center" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white"/> <img align="center" alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/> </div><br/>
 
 # CI/CD - Integração e Entrega Contínua🔬 
-# Ferramentas de CI (Integração Contínua)🛠️ 
+ 
 <div style="display: inline_block"><br> <img align="center" alt="CircleCI" src="https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/> <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> <img align="center" alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> <img align="center" alt="TeamCity" src="https://img.shields.io/badge/TeamCity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white"/> <img align="center" alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/> <img align="center" alt="CloudBees" src="https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white"/> </div><br/>
 
 # Ferramentas de CD (Entrega Contínua)🚀 
 <div style="display: inline_block"><br> <img align="center" alt="Octopus Deploy" src="https://img.shields.io/badge/Octopus_Deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white"/> <img align="center" alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/> <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> </div><br/>
 
-# Bancos de Dados💾 
-# Bancos de Dados Relacionais🗄️ 
+# Bancos de Dados💾 Bancos de Dados Relacionais🗄️
+ 
 <div style="display: inline_block"><br> <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> </div><br/>
 
 # Bancos de Dados NoSQL🎯 
