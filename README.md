@@ -4,10 +4,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/p8k0ks)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uba_life_medicina_e_desafios/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXk-NiNvdaGvxnBEvasvslQ)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%F0%9F%A6%81_Lions-FFD700?style=for-the-badge&logoColor=black)](https://lions.sandlj.com.br/)
 
 ---
 
-Desenvolvedor .NET especializado com sólida experiência em desenvolvimento full-stack. Expertise em C#, ASP.NET, React e bancos de dados SQL/NoSQL. Pós-graduando em **AI Scientist pela FIAP**. Domínio completo do ciclo de desenvolvimento de software, desde a concepção até a implantação.
+Desenvolvedor .NET especializado com sólida experiência em desenvolvimento full-stack. Expertise em C#, ASP.NET, React e bancos de dados SQL/NoSQL. Pós-graduando em **AI Scientist pela FIAP** — construindo soluções inteligentes com IA e Machine Learning. Domínio completo do ciclo de desenvolvimento de software, desde a concepção até a implantação em produção.
 
 ---
 
@@ -16,7 +17,7 @@ Desenvolvedor .NET especializado com sólida experiência em desenvolvimento ful
 ### 🤖 IA & Data Science — FIAP Pós Tech AI Scientist
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🔬 **PayFlow Risk Model** | Modelo ML para prever risco de churn NPS. Random Forest + SMOTE. **AUC-ROC: 0.92**. Dashboard Streamlit + Pipeline Medallion | Python · Scikit-Learn · Streamlit · Databricks · AWS S3 |
+| 🔬 **PayFlow Risk Model** | Modelo ML para prever risco de churn NPS. Random Forest + SMOTE. **Nota 90/100 FIAP · AUC-ROC: 0.92**. Dashboard Streamlit + Pipeline Medallion | Python · Scikit-Learn · Streamlit · Databricks · AWS S3 |
 | 📊 **Pipeline Alfabetização Brasil** | Engenharia de dados em larga escala para análise de alfabetização infantil no Brasil | PySpark · Databricks · Arquitetura Medallion |
 | 🌍 **Motor Diagnóstico IDHM** | Análise de indicadores de desenvolvimento humano — correlação entre educação, renda e longevidade | Python · Pandas · Plotly · Seaborn |
 
@@ -24,24 +25,32 @@ Desenvolvedor .NET especializado com sólida experiência em desenvolvimento ful
 | Projeto | Descrição |
 |---|---|
 | 💊 **Serenya Home Care** | Plataforma digital para gestão de homecare — medicações, produtividade e diretrizes médicas |
-| 🩺 **Dr. Feridas Telemedicina** | App de telemedicina para especialistas em tratamento de feridas |
+| 🩺 **Enfermeira Feridas** | Aplicação para profissionais de enfermagem em tratamento de feridas |
 | 📱 **PerTo Saúde** | App que guia pacientes a UBS, UPA e hospitais mais próximos |
 | 🗺️ **Caminho ao Convênio** | App para encontrar redes credenciadas de planos de saúde |
 
 ### ⚙️ Automação & IA
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🤖 **Live Vendedor IA** | Vendedor virtual com IA para lives no TikTok com síntese de voz | Python · OpenAI · TTS |
+| 🤖 **Secretário IA da Ala** | Agente inteligente para gestão e secretariado automatizado | JavaScript · IA |
+| 🎬 **Live Vendedor IA** | Vendedor virtual com IA para lives no TikTok com síntese de voz | Python · OpenAI · TTS |
 | 🔄 **N8N Workflows** | Automações: agendamento, monitoramento de reposts, integração WhatsApp | N8N · Python · WhatsApp API |
 | 🏆 **Hackathon Oracle — RunFlow** | Solução de automação de processos para Hackathon Oracle | Python · Oracle · AI |
+
+### 🌐 Sites em Produção (VPS próprio · Ubuntu 24.04 · Nginx · Cloudflare)
+| Site | Descrição |
+|---|---|
+| 🦁 **[lions.sandlj.com.br](https://lions.sandlj.com.br/)** | Portfólio pessoal com Lions Agent IA integrado |
+| 🐍 **[cursopythonia.sandlj.com.br](https://cursopythonia.sandlj.com.br)** | Curso de Python online em português |
+| 🎉 **[brinkamaisfestas.sandlj.com.br](https://brinkamaisfestas.sandlj.com.br)** | Plataforma para empresa de festas |
 
 ### 🎮 Games & Outros
 | Projeto | Descrição |
 |---|---|
+| 🛒 **Sistema PDV Supermercado** | Sistema completo de ponto de venda em C# — onde tudo começou em 2022 |
 | 🎨 **Jogo das Cores** | Jogo de cores — versão web |
 | 🏰 **Jogo dos Reinos** | Jogo de estratégia de reinos |
 | 🌌 **AstroAI** | Projeto Astronomia + IA — FIAP Invention |
-| 🦁 **Lions Portfolio** | Site de portfólio pessoal |
 
 ---
 
