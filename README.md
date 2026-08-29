@@ -44,7 +44,27 @@
 
 Desenvolvedor .NET especializado com sólida experiência em desenvolvimento full-stack. Expertise em C#, ASP.NET, React e bancos de dados SQL/NoSQL. Bacharel em Ciência da Computação com pós-graduação em Segurança da Informação. Domínio completo do ciclo de desenvolvimento de software, desde a concepção até a implantação. Pronto para enfrentar novos desafios em gestão de projetos e inovação tecnológica.
 
+# Projetos em destaque 🚀
+
+🤖 **IA & Data Science (FIAP Pós Tech — AI Scientist)**
+- PayFlow Risk Model — Modelo de ML para prever risco de churn de clientes NPS (Random Forest · SMOTE · AUC-ROC: 0.92 · Streamlit · Databricks · AWS S3)
+- Pipeline Alfabetização Brasil — Engenharia de dados em larga escala para análise de alfabetização infantil no Brasil (PySpark · Arquitetura Medallion Bronze→Silver→Gold)
+- Motor de Diagnóstico Socioeconômico IDHM — Análise de indicadores de desenvolvimento humano (Pandas · Plotly · Seaborn)
+
+🏥 **Healthtech**
+- Serenya Home Care — Plataforma digital para gestão de homecare (Next.js · Prisma · React)
+- Dr. Feridas Telemedicina — App de telemedicina para especialistas em feridas
+- PerTo Saúde — App que guia pacientes a UBS, UPA e hospitais
+- Caminho ao Convênio — App para encontrar redes de planos de saúde
+
+⚙️ **Automação & IA**
+- Live Vendedor IA — Vendedor virtual com IA para lives no TikTok (Python · OpenAI · TTS)
+- N8N Workflows — Automações: agendamento, monitoramento de reposts, integração WhatsApp
+- Hackathon Oracle — RunFlow — Solução de automação de processos para Hackathon Oracle
+
+🎮 **Games & Outros**
+- Jogo das Cores · Jogo dos Reinos · AstroAI (FIAP Invention) · Lions Portfolio
+
 # Ultimos Videos:
 -[Fundamentos em C# - Variaveis](https://www.youtube.com/watch?v=ge7VXC-XfZg)</br>
 -[Bot Seguidores de Instagram](https://www.youtube.com/watch?v=Cs4Q66ybWRI&t=127s)</br>
-
